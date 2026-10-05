@@ -1,5 +1,4 @@
 
-/* Definition of a Linked List Node
 class Node
 {
   public:
@@ -10,7 +9,7 @@ class Node
         data = val;
         next = nullptr;
     }
-};*/
+};
 
 class Solution {
   public:
